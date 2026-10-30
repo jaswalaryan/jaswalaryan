@@ -1,34 +1,24 @@
 # Hi there, I'm Aryan Jaswal 👋
 
-### 🚀 Mission: Building systems to save time for 1 Billion people.
+**Mission:** Building systems to save time for 1 Billion people.
 
-I am a **Python & AI Team Lead** dedicated to creating high-impact, scalable software solutions. I believe that through AI and optimized backend architecture, we can automate the mundane and unlock human potential on a global scale.
+I am a Software Engineer (Python & AI) dedicated to creating high-impact, scalable software solutions. I have a proven track record of delivering end-to-end projects across AI/ML backends, computer vision, web scraping, and application deployment. I am an action-oriented system builder who believes that through AI and optimized architecture, we can automate the mundane and unlock human potential. 
 
----
+## Technical Skills
 
-### 🛠️ Technical Arsenal
+*   **Languages & Backend Frameworks:** Python, FastAPI, Django
+*   **AI & Machine Learning:** RAG & Agents (LangGraph, LangChain, LlamaIndex, LangSmith), Computer Vision (YOLO, R-CNN, SAM), PyTorch, TensorFlow, Transformers
+*   **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Vector DBs (Qdrant, FAISS, ChromaDB, Pinecone)
+*   **Architecture & DevOps:** Docker, Celery, Linux, S3/MinIO, Git, System-Service deployment
+*   **Web Scraping & Testing:** Selenium, Playwright, BeautifulSoup, PyTest, Postman
 
-* **Languages:** Python (Expert), SQL, JavaScript
-* **AI & Computer Vision:** YOLO, Segment Anything (SAM), OpenAI API, Image Similarity
-* **Backend Frameworks:** FastAPI, Django, Flask
-* **Databases:** PostgreSQL, MongoDB, Redis
-* **Tools & DevOps:** Docker, Git, Linux (Pop!_OS), Tailwind CSS
+## What I'm Doing Right Now
 
----
+*   **Building:** Advanced AI solutions including multi-agent workflows (AiNative Agent), GenAI RAG chatbots, and real-time computer vision systems like facial attendance and satellite prediction models.
+*   **Scaling:** Designing robust backend pipelines, integrating vector databases, and transforming complex ideas into production-ready, trackable systems.
 
-### 📈 What I’m Doing Right Now
+## Connect with Me
 
-- **Leading:** Managing a multi-disciplinary team of Python, AI, and Web developers.
-- **Building:** High-performance APIs and AI models that solve real-world efficiency gaps.
-- **Scaling:** Transforming complex ideas into production-ready systems.
-
----
-
-### 📫 Connect with Me
-
-- 💼 **Role:** Team Lead @ Prologic Technologies
-- 🔭 **Goal:** Contributing to Open Source projects that empower the next billion users.
-- ⚡ **Philosophy:** Code is not just about logic; it's about saving time for humanity.
-
----
-"The best way to predict the future is to invent it."
+*   **Email:** jaswal.aryan@yahoo.com
+*   **Philosophy:** System builder, practical, and precise. Code is not just about logic; it is about trackable progress and saving time for humanity.
+*   **Motto:** "What gets measured gets improved."
